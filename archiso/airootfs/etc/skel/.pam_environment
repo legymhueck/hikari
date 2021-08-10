@@ -1,0 +1,2 @@
+EDITOR=vim
+XDG_CONFIG_HOME DEFAULT=@{HOME}/.config
